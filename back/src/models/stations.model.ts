@@ -1,6 +1,6 @@
-import { prop, getModelForClass, modelOptions, index } from '@typegoose/typegoose';
+import { getModelForClass, index, modelOptions, prop } from '@typegoose/typegoose';
 
-class NumBikesAvailableType {
+export class NumBikesAvailableType {
   @prop({})
   mechanical?: number;
 
