@@ -1,7 +1,6 @@
 # ℹ️ Introduction
 
-This is a coding exercise done as part of an interview process.
-It was cloned from its original repo and built upon.
+This is a take home project that was developed as part of an interview process. It was cloned from its original repo and built upon.
 
 # ✋ Before you get started
 
