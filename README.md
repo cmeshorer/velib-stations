@@ -1,14 +1,7 @@
 # ℹ️ Introduction
 
-### How to submit the exercice ?
-
-**1.** Create your **private** repo by using this repository as template.
-
-<img width="750" alt="Screenshot 2022-08-02 at 20 46 19" src="https://user-images.githubusercontent.com/20050165/182450543-33f96cf9-81f7-425f-93ce-0ca26568128d.png">
-
-**2.** Code the exercice.
-
-**3.** When you are done, send the link of your repository to your interviewer, while making sure he/she can access it.
+This is a coding exercise done as part of an interview process.
+It was cloned from its original repo and built upon.
 
 # ✋ Before you get started
 
@@ -63,7 +56,3 @@ Your goal will be to **discover the architecture**, **implement the front-end**,
 - User login informations should be **persisted** client side.
 - The station list bikes availability status should be **re-fetched and updated automatically at frequent intervals**.
 - Make it look good, and have fun with it 😊
-
----
-
-### All **informations** about this exercise should have been provided in this **README**, but if you have any questions, feel free to contact us!
